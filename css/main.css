@@ -155,6 +155,9 @@ p {
     font-weight: var(--weight-200);
 }
 
+/*====================
+600px
+====================*/
 @media screen and (min-width: 37.5rem) {
     article {
         margin: 0;
