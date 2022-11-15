@@ -58,6 +58,10 @@ header {
     place-items: center;
 }
 
+article {
+    margin: 2rem 0;
+}
+
 header h1 {
     text-align: center;
     max-width: 90%;
@@ -152,6 +156,10 @@ p {
 }
 
 @media screen and (min-width: 37.5rem) {
+    article {
+        margin: 0;
+    }
+
     section {
         margin-bottom: 0;
     }
