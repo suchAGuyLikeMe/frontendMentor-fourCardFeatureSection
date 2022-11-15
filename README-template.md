@@ -29,12 +29,12 @@ Users should be able to:
 ![desktop](./screenshots/desktop.PNG)
 
 /_mobile_/
-![moilbe iphone SE](./screenshots/mobileIphoneSE-partOne.PNG)
-![mobile iphone SE](./screenshots/mobileIphoneSE-partTwo.PNG)
+![moilbe iphone SE](./screenshots/mobile-iphone-se-part-one.PNG)
+![mobile iphone SE](./screenshots/mobile-iphone-se-part-two.PNG)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   Solution URL: (https://www.frontendmentor.io/solutions/four-card-feature-section-rAKJflGxxd)
 -   Live Site URL: (https://suchaguylikeme-fourcardfeaturesection.pages.dev)
 
 ## My process
