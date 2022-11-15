@@ -44,7 +44,6 @@ body {
     background: var(--neutral-very-light-gray);
     font-family: var(--font-family);
     font-size: var(--font-size);
-
     height: 100vh;
 }
 
